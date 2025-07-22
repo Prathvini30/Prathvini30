@@ -1,7 +1,7 @@
 # 👩‍💻 About Me:
 🎓 Information Science Engineering Student at CMR Institute of Technology, Bangalore  
 💡 Passionate about AI, Web Development, and Accessibility Tools  
-🚀 Currently building: **Accessibility Analyzer** | **Parkinson Insight Now**
+🚀 Currently building:  **Parkinson Insight Now**
 
 ---
 
