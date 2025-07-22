@@ -26,8 +26,6 @@
 
 ## 📊 GitHub Stats:
 
-![Prathvini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathvini30&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvini30&layout=compact&theme=radical)
 
 
