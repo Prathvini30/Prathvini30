@@ -1,6 +1,6 @@
 # 👩‍💻 About Me:
 🎓 Information Science Engineering Student at CMR Institute of Technology, Bangalore  
-💡 Passionate about AI, Web Development, and Accessibility Tools  
+💡 Passionate about Software development, AI, Web Development, solving real-world problems and Accessibility Tools  
 🚀 Currently building:  **Parkinson Detection Model**
 
 ---
