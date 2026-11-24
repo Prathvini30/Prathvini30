@@ -1,35 +1,114 @@
-# 👩‍💻 About Me:
-🎓 Information Science Engineering Student at CMR Institute of Technology, Bangalore  
-💡 Passionate about Software development, AI, Web Development, solving real-world problems and Accessibility Tools  
-🚀 Currently building:  **Parkinson Detection Model**
+
+# Hi, I'm Prathvini Poojary! 👋
+
+### Data Analytics | Python | SQL | Power BI | AI & Machine Learning
+
+🎓 B.E. in Information Science and Engineering graduate from CMR Institute of Technology, Bengaluru.
+
+I'm interested in transforming data into meaningful insights and building practical solutions using Python, SQL, data analytics, business intelligence, and machine learning.
+
+Currently exploring data analytics, AI-powered applications, and interactive dashboard development.
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathvini-poojary-91b441301)   
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Prathvini_30/)
+## 👩‍💻 About Me
 
-📧 Email: prathvinipoojary2004@gmail.com
-
----
-
-## 💻 Tech Stack:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🐍 Working with Python, Pandas, SQL, and Excel.
+- 📈 Exploring Power BI and Tableau for data visualization.
+- 🤖 Building AI and Machine Learning applications.
+- 💡 Interested in solving real-world problems through data.
+- 📍 Based in Bengaluru, India.
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ Technical Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvini30&layout=compact&theme=radical)
+**Programming:** Python, SQL
 
+**Data Analytics:** Pandas, NumPy, MS Excel, Data Cleaning, EDA, KPI Analysis
+
+**Visualization & BI:** Power BI, Tableau, Plotly, Streamlit
+
+**Databases:** MySQL, MongoDB
+
+**AI & Machine Learning:** Machine Learning, CNN, NLP, MFCC
+
+**Web Development:** HTML, CSS, React.js
+
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, Ubuntu
 
 ---
+
+## 🚀 Featured Projects
+
+### 1. AI-Powered Data Analyst Assistant
+**Python | Pandas | Streamlit | Plotly | SQL**
+
+An interactive data analysis application designed to help users explore CSV and Excel datasets.
+
+- Dataset upload and data exploration.
+- Automated data-quality checks and cleaning.
+- KPI calculations and interactive dashboards.
+- Natural-language questions about datasets.
+- Business insights and downloadable reports.
+
+🔗 [View Project](https://github.com/Prathvini30/ai-data-analyst-assistant)
+
+### 2. Parkinson's Disease Detection System
+**Python | Machine Learning | React.js | MFCC**
+
+A multimodal screening prototype using different input sources to assess potential signs associated with Parkinson's disease.
+
+- Spiral drawing image analysis.
+- Voice recording feature extraction.
+- Symptom questionnaire integration.
+- React frontend and Python backend.
+
+🔗 [View Project](https://github.com/Prathvini30/parkinsons-detection)
+
+### 3. Business Intelligence & Sales Analytics
+**Python | SQL | Excel | Power BI**
+
+Planned project focusing on business performance analysis through sales data.
+
+- Sales data cleaning and transformation.
+- SQL-based business analysis.
+- Revenue and customer performance metrics.
+- Interactive Power BI dashboards.
+
+---
+
+## 💼 Experience
+
+**Digital Marketing Executive Intern | Markitals**
+August 2026 – October 2026
+
+- Completed a three-month internship involving digital marketing strategies, market research, and campaign performance analysis.
+
+**Software Testing & Development Intern | Megatron Solutions**
+- Gained experience in inventory control software testing and development.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- Rajya Puraskar Award – Bharat Scouts and Guides.
+- Artificial Intelligence with Python – Infosys Springboard.
+- Maturing DevOps Practice in the Enterprise.
+- Intel AI For All – AI Aware and AI Appreciate.
+- Participant, GEN AI Hackfest and CMRIT ISE Demo Day.
+- Presented a seminar on AWS Lambda Functions.
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** prathvinipoojary2004@gmail.com
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/prathvini-poojary-91b441301/)
+- **GitHub:** [Prathvini30](https://github.com/Prathvini30)
+
+---
+
+⭐ Thanks for visiting my profile!
 
