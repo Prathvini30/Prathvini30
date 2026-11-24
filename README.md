@@ -77,6 +77,7 @@ Planned project focusing on business performance analysis through sales data.
 - Revenue and customer performance metrics.
 - Interactive Power BI dashboards.
 
+🔗 [View Project](https://github.com/Prathvini30/parkinsons-detection)
 ---
 
 ## 💼 Experience
