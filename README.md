@@ -10,7 +10,8 @@ I'm interested in transforming data into meaningful insights and building practi
 Currently exploring data analytics, AI-powered applications, and interactive dashboard development.
 
 ---
-🌐 Portfolio: [View my portfolio]([your-link](https://github.com/Prathvini30/prathviniPoojary-portfolio)).
+## 🌐 My Portfolio
+[View my portfolio](https://prathvini30.github.io/prathviniPoojary-portfolio/)
 
 ---
 
